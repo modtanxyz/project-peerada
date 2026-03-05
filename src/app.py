@@ -3,3 +3,4 @@ print("Login attempt detected")
 if username == "admin":
 return "Login Success"
 return "Login Failed"
+print("Login attempt detected")
